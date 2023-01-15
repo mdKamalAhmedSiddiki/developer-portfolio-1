@@ -115,6 +115,7 @@ margin-bottom: 30px;
 
 .what-i-do{
     margin-top: 130px;
+    margin-bottom: 60px;
 
 }
 .skills-container{
@@ -137,4 +138,34 @@ margin-bottom: 30px;
 }
 .skill-description{
     color: #757575;
+}
+.resume-content{
+    display: flex;
+    gap: 24px;
+}
+.resume-item{
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.resume .title{
+    font-weight: 700;
+    font-size: 25px;
+    color: #474747;
+    margin-bottom: 20px;
+}
+.resume .sub-title{
+color: #757575;
+font-weight: 600;
+font-size: 20px;
+margin-bottom: 20px;
+}
+
+
+.resume .description{
+    color: #757575;
+}
+
+.resume-button{
+    margin-top: 50px;
+    text-align: center;
 }
